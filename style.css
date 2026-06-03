@@ -13,6 +13,10 @@ body {
     cursor: pointer;
 }
 
+.justify {
+    text-align: justify;
+}
+
 /* Les Savoir-Faire */
 
 .sf1,
