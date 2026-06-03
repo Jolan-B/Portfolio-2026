@@ -1,8 +1,8 @@
 body {
     margin: 0;
 
-    --color-primary: green;
-    --color-hover: lightgreen;
+    --color-primary: #f2f2f2;
+    --color-hover: #b4b4b4;
 
     --height-header: 80px;
 
@@ -13,11 +13,76 @@ body {
     cursor: pointer;
 }
 
+/* Les Savoir-Faire */
+
+.sf1,
+.sf2,
+.sf3,
+.sf4,
+.sf5,
+.sf6,
+.sf7,
+.sf8,
+.sf9,
+.sf10 {
+    padding: 1px 2.5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.sf1 {
+    background-color: #f6e58d;
+}
+
+.sf2 {
+    background-color: #f0932b;
+}
+
+.sf3 {
+    background-color: #e84118;
+}
+
+.sf4 {
+    background-color: #e056fd;
+}
+
+.sf5 {
+    background-color: #9c88ff;
+}
+
+.sf6 {
+    background-color: #353b48;
+    color: white;
+}
+
+.sf7 {
+    background-color: #273c75;
+    color: white;
+}
+
+.sf8 {
+    background-color: #487eb0;
+}
+
+.sf9 {
+    background-color: #22a6b3;
+}
+
+.sf10 {
+    background-color: #6ab04c;
+}
+
+/* Les Savoir-Faire */
+
+
+/* Barre de Navigation */
+
 .menu-index {
     display: flex;
     justify-content: space-around;
     height: var(--height-header);
     background-color: var(--color-primary);
+    font-weight: bold;
 }
 
 .menu-index a {
@@ -32,6 +97,10 @@ body {
     height: fit-content;
 }
 
+.titles>.primary-title {
+    cursor: default;
+}
+
 .titles:hover {
 
     .secondary-title {
@@ -43,6 +112,8 @@ body {
         padding: 10px;
         color: black;
         transition: var(--transition-menu);
+        height: auto;
+        position: static;
     }
 
 }
@@ -54,18 +125,27 @@ body {
 
     height: var(--height-header);
     width: 100%;
+    padding: 0 10px;
 }
 
 .secondary-title {
     display: flex;
     flex-direction: column;
 
+    user-select: none;
+
     height: 0;
+    width: 100%;
+
+    z-index: 1;
 
     background-color: var(--color-primary);
 }
 
 .secondary-title a {
+    position: relative;
+    bottom: var(--height-header);
+    height: 0;
     padding: 0 10px;
     color: transparent;
 }
@@ -83,3 +163,111 @@ body {
 .secondary-title a>span {
     margin-right: 3px;
 }
+
+/* Barre de Navigation */
+
+main {
+    display: flex;
+    flex-direction: column;
+
+    padding: 50px 10px;
+    gap: 20px;
+}
+
+/* Page Trace */
+
+.presentation {
+    background-color: var(--color-primary);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 5px var(--color-hover);
+}
+
+.presentation h1 {
+    font-size: 20px;
+}
+
+.trace-title {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 200px;
+
+    background-color: var(--color-primary);
+}
+
+.trace-title a {
+    display: flex;
+    width: 40px;
+}
+
+.trace-title img {
+    height: 35px;
+    width: 35px;
+}
+
+.trace-title .before {
+    margin-left: 5px;
+}
+
+.trace-title .before:hover {
+    margin-left: 0px;
+    padding-right: 5px;
+    transition: var(--transition-menu);
+}
+
+.trace-title .after {
+    margin-right: 5px;
+}
+
+.trace-title .after:hover {
+    margin-right: 0px;
+    padding-left: 5px;
+    transition: var(--transition-menu);
+}
+
+.savoir-faire {
+    background-color: var(--color-hover);
+    padding: 10px 20px;
+    border: 3px solid var(--color-primary);
+    border-radius: 5px;
+}
+
+.image-text {
+    background-color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.image-trace {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+        width: 40vw;
+
+        padding: 2px;
+        border: 2px solid var(--color-hover);
+        margin-bottom: 5px;
+    }
+
+    span {
+        font-style: italic;
+    }
+}
+
+.text-trace {
+    text-align: justify;
+}
+
+.summary {}
+
+.summary p {
+    text-align: justify;
+}
+
+/* Page Trace */
