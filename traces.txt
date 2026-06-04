@@ -1,0 +1,35 @@
+SAVOIR-FAIRE
+
+Savoir traduire des besoins utilisateurs en fonctionnalités
+Savoir s'auto-former sur un nouveu langage : PHP
+Créer une BdD répondant aux besoins d'une clientèle
+Savoir faire communiquer une backend avec un frontend d'une application (en utilisant le modèle MVC)
+Savoir architecturer son développement et coder intelligement (éviter les copier-coller, composants)
+
+TECHNIQUE :
+
+Créer un schéma/une BdD répondant aux besoins d'une clientèle
+Créer et développer un site web complet (backend/frontend)
+S'auto-former sur un nouveau langage : PHP
+S'auto-former sur un nouvel outil : Wordpress, avec Local by Flywheel
+
+
+SUIVI DE PROJET :
+
+Créer un site web répondant aux cahiers des charges (attendu des utilisateurs)
+Créer un site une BdD répondant aux cahiers des charges (attendu des utilisateurs)
+Respecter un cahier des charges (déploiement via wp, fonctionnalités demandés)
+Utiliser intelligement des IA pour s'informer, se perfectionner (pour sécuriser les accès, éviter les failles, se renseigner sur les meilleurs langages à utiliser selon les attentes/contraintes, se former sur un nouveau langage : PHP)
+
+Participer aux mécanismes de suivi de projet via des points
+Recueillir les besoins du client 
+Transformer les besoins en cahier des charges
+Faire un découpage, notation des tâches
+
+INTEGRATION :
+
+c'est quoi ça ? On parle, on mange ensemble. C'est suffisant ?
+Agir/travailler en autonomie de façon mesurée
+Être force de proposition
+S'informer du contexte général du sujet du stage
+S'intégrer dans une équipe

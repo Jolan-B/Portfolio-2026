@@ -17,6 +17,33 @@ body {
     text-align: justify;
 }
 
+.about-me {
+
+    display: flex;
+    align-items: center;
+    align-self: center;
+    gap: 50px;
+
+    border-radius: 5px;
+
+    box-shadow: 0 0 5px var(--color-hover);
+
+    padding: 0 20px;
+
+    background-color: var(--color-primary);
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    span {
+        font-size: 1.2em;
+        color: blue;
+        text-decoration: underline;
+        font-style: italic;
+    }
+}
+
 /* Les Savoir-Faire */
 
 .sf1,
@@ -178,18 +205,26 @@ main {
     gap: 20px;
 }
 
-/* Page Trace */
+/* Index */
 
 .presentation {
     background-color: var(--color-primary);
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 0 5px var(--color-hover);
 }
 
 .presentation h1 {
     font-size: 20px;
 }
+
+.image-tuto {
+    position: relative;
+    top: 0.25em;
+    height: 1em;
+    background-color: var(--color-hover);
+}
+
+/* Page Trace */
 
 .trace-title {
 
@@ -275,3 +310,19 @@ main {
 }
 
 /* Page Trace */
+
+/* Page Bilan et Évaluation */
+
+.summaries {
+    padding: 0 1em 15px 1em;
+    background-color: var(--color-hover);
+    border-radius: 8px;
+}
+
+.summary {
+    margin-top: 15px;
+    padding: 2px 1em;
+    background-color: var(--color-primary);
+}
+
+/* Page Bilan et Évaluation */
