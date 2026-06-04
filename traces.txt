@@ -1,25 +1,30 @@
 SAVOIR-FAIRE
 
-Savoir traduire des besoins utilisateurs en fonctionnalités
-Savoir s'auto-former sur un nouveu langage : PHP
+Traduire des besoins utilisateurs en fonctionnalités
+S'auto-former et utiliser un nouveau langage : PHP
 Créer une BdD répondant aux besoins d'une clientèle
-Savoir faire communiquer une backend avec un frontend d'une application (en utilisant le modèle MVC)
-Savoir architecturer son développement et coder intelligement (éviter les copier-coller, composants)
+Lier un backend avec un frontend d'une application (en utilisant le modèle MVC)
+Structurer son développement et coder intelligemment (arborescence, éviter les copier-coller, composants)
 
 TECHNIQUE :
 
 Créer un schéma/une BdD répondant aux besoins d'une clientèle
+Coder intelligemment : arborescence, réutilisation de composants
 Créer et développer un site web complet (backend/frontend)
-S'auto-former sur un nouveau langage : PHP
-S'auto-former sur un nouvel outil : Wordpress, avec Local by Flywheel
-
+S'auto-former et utiliser un nouveau langage : PHP (tutos, tests en local pour manipuler)
+S'auto-former et utiliser sur un nouvel outil : Wordpress, avec Local by Flywheel (tutos, tests en local pour manipuler)
+S'auto-former et mettre en place un nouvel outil : Calendly 
+Gérer les données (SCRUD : Search Create Read Update Delete)
+Rendre un site responsive ?
 
 SUIVI DE PROJET :
 
 Créer un site web répondant aux cahiers des charges (attendu des utilisateurs)
 Créer un site une BdD répondant aux cahiers des charges (attendu des utilisateurs)
 Respecter un cahier des charges (déploiement via wp, fonctionnalités demandés)
-Utiliser intelligement des IA pour s'informer, se perfectionner (pour sécuriser les accès, éviter les failles, se renseigner sur les meilleurs langages à utiliser selon les attentes/contraintes, se former sur un nouveau langage : PHP)
+Utiliser intelligemment des IA pour s'informer, se perfectionner (pour sécuriser les accès, éviter les failles, se renseigner sur les meilleurs langages à utiliser selon les attentes/contraintes, se former sur un nouveau langage : PHP)
+Travailler avec un outil de gestion de version : GitHub
+Mettre en place un guide d'utilisation de l'application web pour faciliter sa manipulation par les utilisateurs
 
 Participer aux mécanismes de suivi de projet via des points
 Recueillir les besoins du client 
@@ -28,8 +33,7 @@ Faire un découpage, notation des tâches
 
 INTEGRATION :
 
-c'est quoi ça ? On parle, on mange ensemble. C'est suffisant ?
 Agir/travailler en autonomie de façon mesurée
-Être force de proposition
+Être force de proposition -> canva, fonctionnalités du site (modifier les services des assurances via les services pour avoir une vue globale, changer mdp avec un mail si mdp oublié)
 S'informer du contexte général du sujet du stage
 S'intégrer dans une équipe

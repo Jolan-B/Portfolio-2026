@@ -50,12 +50,7 @@ body {
 .sf2,
 .sf3,
 .sf4,
-.sf5,
-.sf6,
-.sf7,
-.sf8,
-.sf9,
-.sf10 {
+.sf5 {
     padding: 1px 2.5px;
     border-radius: 3px;
     font-weight: bold;
@@ -74,32 +69,23 @@ body {
 }
 
 .sf4 {
-    background-color: #e056fd;
-}
-
-.sf5 {
     background-color: #9c88ff;
 }
 
-.sf6 {
-    background-color: #353b48;
-    color: white;
-}
-
-.sf7 {
+.sf5 {
     background-color: #273c75;
     color: white;
 }
 
-.sf8 {
+
+.sf-potentiel {
+    background-color: #353b48;
+    color: white;
+
     background-color: #487eb0;
-}
 
-.sf9 {
     background-color: #22a6b3;
-}
 
-.sf10 {
     background-color: #6ab04c;
 }
 
