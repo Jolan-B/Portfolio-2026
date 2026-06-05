@@ -263,8 +263,13 @@ main {
     background-color: var(--color-primary);
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     gap: 20px;
     padding: 20px;
+}
+
+.image-text:nth-child(2n+1) {
+    flex-direction: row-reverse;
 }
 
 .image-trace {
@@ -273,7 +278,8 @@ main {
     align-items: center;
 
     img {
-        width: 40vw;
+        max-width: 40vw;
+        max-height: 500px;
 
         padding: 2px;
         border: 2px solid var(--color-hover);
@@ -282,11 +288,13 @@ main {
 
     span {
         font-style: italic;
+        text-align: center;
     }
 }
 
 .text-trace {
     text-align: justify;
+    width: 50%;
 }
 
 .summary {}
