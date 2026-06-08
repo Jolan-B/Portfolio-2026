@@ -62,11 +62,10 @@ S'intégrer dans une équipe (manger avec, rencontrer les membres des différent
 RESTE À FAIRE : 
 
 - Supprimer la page BdD de suivi de projet dans toutes les barres de navigation 
-- Supprimer la page et son acces dans la navigation : appli-fonctionnelle.html, cdc.html
+- Supprimer la page et son acces dans la navigation : appli-fonctionnelle.html
 - faire le contenu de : 
 	- index
 	- bilan
 	- présentation des différents savoir faire (au dessus des titres de trace)
 	- intégration en entreprise
 	- S'auto-former et utiliser un nouveau langage : PHP dans Technique
-	- Remplacer : SuiviDeProjet/guide.html par SuiviDeProjet/tuto.html
