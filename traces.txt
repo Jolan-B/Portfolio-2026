@@ -35,23 +35,38 @@ SUIVI DE PROJET :
 
 
 
-Créer une application web répondant aux cahiers des charges (attendu des utilisateurs) 1️⃣-3️⃣-4️⃣
-Créer une BdD répondant aux cahiers des charges (attendu des utilisateurs) 1️⃣-3️⃣
+Créer une application web répondant à un cahier des charges (attendu des utilisateurs) 1️⃣-2️⃣-3️⃣-4️⃣
+
 BILAN
-Respecter un cahier des charges (déploiement via wp, fonctionnalités demandés) 1️⃣-2️⃣
+
 Travailler avec un outil de gestion de version : GitHub 5️⃣
-Utiliser intelligemment des IA pour s'informer, se perfectionner (pour sécuriser les accès, éviter les failles, se renseigner sur les meilleurs langages à utiliser selon les attentes/contraintes, se former sur un nouveau langage : PHP) 1️⃣-2️⃣-3️⃣
+
+Utiliser intelligemment des IA pour s'informer, se perfectionner (pour sécuriser les accès, éviter les failles, se renseigner sur les meilleurs langages à utiliser selon les attentes/contraintes, se former sur un nouveau langage : PHP) 2️⃣-3️⃣
+
 Mettre en place un guide d'utilisation de l'application web pour faciliter sa manipulation par les utilisateurs (Site + Calendly) 1️⃣-2️⃣
 
-Participer aux mécanismes de suivi de projet via des points
-Recueillir les besoins du client 
-Transformer les besoins en cahier des charges
-Faire un découpage, notation des tâches
 
 INTEGRATION :
 
 Agir/travailler en autonomie de façon mesurée
+
 BILAN
+
 S'informer du contexte général du sujet du stage 1️⃣-3️⃣
-S'intégrer dans une équipe (manger avec, rencontrer les membres des différentes équipes, échanger, voir les différents stagiaires, se déplacer dans les différentes agences)
+
+S'intégrer dans une équipe (manger avec, rencontrer les membres des différentes équipes, échanger, voir les différents stagiaires, se déplacer dans les différentes agences, screen mail demande prolongation de stage, screen groupe whatsapp)
+
 Être force de proposition -> canva, fonctionnalités du site (modifier les services des assurances via les services pour avoir une vue globale, changer mdp avec un mail si mdp oublié, mettre en favori) 1️⃣-3️⃣
+
+
+RESTE À FAIRE : 
+
+- Supprimer la page BdD de suivi de projet dans toutes les barres de navigation 
+- Supprimer la page et son acces dans la navigation : appli-fonctionnelle.html, cdc.html
+- faire le contenu de : 
+	- index
+	- bilan
+	- présentation des différents savoir faire (au dessus des titres de trace)
+	- intégration en entreprise
+	- S'auto-former et utiliser un nouveau langage : PHP dans Technique
+	- Remplacer : SuiviDeProjet/guide.html par SuiviDeProjet/tuto.html

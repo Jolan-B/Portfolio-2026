@@ -222,6 +222,10 @@ main {
     background-color: var(--color-primary);
 }
 
+.trace-title h1 {
+    text-align: center;
+}
+
 .trace-title a {
     display: flex;
     width: 40px;
