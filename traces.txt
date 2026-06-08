@@ -57,16 +57,3 @@ S'informer du contexte général du sujet du stage 1️⃣-2️⃣
 S'intégrer dans une équipe (manger avec, rencontrer les membres des différentes équipes, échanger, voir les différents stagiaires, se déplacer dans les différentes agences, screen mail demande prolongation de stage, screen groupe whatsapp)
 
 Être force de proposition -> canva, fonctionnalités du site (modifier les services des assurances via les services pour avoir une vue globale, changer mdp avec un mail si mdp oublié, mettre en favori) 1️⃣-3️⃣
-
-
-RESTE À FAIRE : 
-
-- Supprimer la page BdD de suivi de projet dans toutes les barres de navigation 
-- Supprimer la page et son accès (via < >) dans la navigation : appli-fonctionnelle.html (pas besoin dans intégration)
-- faire le contenu de : 
-	- index
-	- bilan
-	- présentation des différents savoir faire (au dessus des titres de trace)
-	- intégration en entreprise
-	- S'auto-former et utiliser un nouveau langage : PHP dans Technique
-	- image Autonomie

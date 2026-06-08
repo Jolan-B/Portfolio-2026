@@ -194,9 +194,11 @@ main {
 /* Index */
 
 .presentation {
-    background-color: var(--color-primary);
+    align-self: center;
+    background-color: var(--color-hover);
     border-radius: 10px;
     padding: 20px;
+    width: fit-content;
 }
 
 .presentation h1 {
@@ -301,10 +303,12 @@ main {
     width: 50%;
 }
 
-.summary {}
-
-.summary p {
-    text-align: justify;
+.synthese {
+    width: 700px;
+    align-self: center;
+    background-color: var(--color-hover);
+    padding: 5px 20px;
+    border-radius: 5px;
 }
 
 /* Page Trace */
